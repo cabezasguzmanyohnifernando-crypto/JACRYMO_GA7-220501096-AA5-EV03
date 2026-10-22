@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "productoId": 1,
+    "nombreProducto": "Zapatos deportivos JACRYMO",
+    "cantidad": 2,
+    "precioUnitario": 200000,
+    "total": 400000,
+    "fecha": "2026-10-22T18:01:05.102Z"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "correo": "juan.perez@example.com",
+    "telefono": "3001234567"
+  }
+]
